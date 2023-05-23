@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/khumbulani-cv/static/css/main.e8baa041.css",
+    "main.js": "/khumbulani-cv/static/js/main.47a59a62.js",
+    "static/js/787.28cb0dcd.chunk.js": "/khumbulani-cv/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/khumbulani-cv/index.html",
+    "main.e8baa041.css.map": "/khumbulani-cv/static/css/main.e8baa041.css.map",
+    "main.47a59a62.js.map": "/khumbulani-cv/static/js/main.47a59a62.js.map",
+    "787.28cb0dcd.chunk.js.map": "/khumbulani-cv/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8baa041.css",
+    "static/js/main.47a59a62.js"
+  ]
+}
